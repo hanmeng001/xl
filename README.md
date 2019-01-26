@@ -1,2 +1,0 @@
-# xl
-a wonderful game 
